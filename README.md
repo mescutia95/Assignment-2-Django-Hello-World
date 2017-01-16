@@ -6,6 +6,10 @@ Getting started with making a simple stand alone Django web project.
 * Display "CINS465 Hello World"
 * Be submitted to GitHub correctly
 
+### Notes
+* You should make sure your site is hosted such that it can be seen from the root path
+  * If you were to visit the site on the local host it could be found at http://localhost/
+
 ## Submitting Assignment 2
 
 If you haven't already create your CINS465 repo through the form on my website, you'll need the GitHub Token given out in lecture to do so.
