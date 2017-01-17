@@ -8,7 +8,7 @@ Getting started with making a simple stand alone Django web project.
 
 ### Notes
 * You should make sure your site is hosted such that it can be seen from the root path
-  * If you were to visit the site on the local host it could be found at http://localhost/
+  * You should be able to view the site on your local machine at http://localhost/. For more information on setting up routes in Django, please see [the documentation](https://docs.djangoproject.com/en/1.10/topics/http/urls/)
 
 ## Submitting Assignment 2
 
