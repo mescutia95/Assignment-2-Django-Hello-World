@@ -4,6 +4,7 @@ Getting started with making a simple stand alone Django web project.
 ## In this assignment your website needs to do the following:
 
 * Display "CINS465 Hello World"
+  * This should be done via a template variable
 * Be submitted to GitHub correctly
 * You should be able to view the site on your local machine at http://localhost/. For more information on setting up routes in Django, please see [the documentation](https://docs.djangoproject.com/en/1.10/topics/http/urls/)
 
