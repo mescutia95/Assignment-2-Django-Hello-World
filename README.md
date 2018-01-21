@@ -4,7 +4,6 @@ Getting started with making a simple stand alone Django web project.
 ## In this assignment your website needs to do the following:
 
 * Display "CINS465 Hello World"
-  * This should be done via a template variable
 * Be submitted to GitHub correctly
   * Containerized is optional
   * Must be submitted to the correct branch
